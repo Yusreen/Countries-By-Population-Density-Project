@@ -9,7 +9,8 @@ This project uses Airflow to scrape and clean data from Wikipedia. The clean dat
 Here you want to write a short overview of the goals of your project and how it works at a high level. If possible, include one or two images of the end product and architecture diagram (see examples below). diagrams.net is a great tool for creating architecture diagrams.
 
 ## System Architecture
-https://github.com/airscholar/FootballDataEngineering/blob/main/assets/system_architecture.png?raw=true![image](https://github.com/user-attachments/assets/5f59b208-9945-463f-8ff8-d0fd5ee4abc3)
+![image](https://github.com/user-attachments/assets/cf115ff1-8932-4fa6-936a-4125d4edac48)
+
 
 
 ### Data Visualization
