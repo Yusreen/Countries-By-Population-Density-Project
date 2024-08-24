@@ -1,0 +1,760 @@
+Rank,Location,Country,Territory,Population per square area,Population,Land area
+1, Macau (China), Macau,China,"21000
+",704150,"33
+"
+2, Monaco, Monaco,,"18000
+",36298,"2.0
+"
+3, Singapore, Singapore,,"8250
+",6014723,"729
+"
+4, Hong Kong (China), Hong Kong,China,"6725
+",7491609,"1114
+"
+5, Gaza Strip (Palestine), Gaza Strip,Palestine,"5749
+",2098389,"365
+"
+6, Gibraltar (UK), Gibraltar,UK,"4800
+",32688,"6.8
+"
+7, Bahrain, Bahrain,,"1910
+",1485510,"778
+"
+8, Maldives, Maldives,,"1750
+",523787,"300
+"
+9, Malta, Malta,,"1700
+",535065,"315
+"
+10, Vatican City, Vatican City,,"1600
+",764,"0.49
+"
+11, Sint Maarten (NL), Sint Maarten,NL,"1300
+",44222,"34
+"
+12, Bermuda (UK), Bermuda,UK,"1200
+",64069,"54
+"
+13, Bangladesh, Bangladesh,,"1165
+",172954319,"148460
+"
+14, Guernsey (UK), Guernsey,UK,"990
+",63544,"64
+"
+15, Jersey (UK), Jersey,UK,"964
+",111803,"116
+"
+16, Mayotte (France), Mayotte,France,"913
+",335995,"368
+"
+17, Palestine, Palestine,,"892
+",5371230,"6020
+"
+18, Taiwan, Taiwan,,"676
+",23923277,"35410
+"
+19, Mauritius, Mauritius,,"657
+",1300557,"1979
+"
+20, Barbados, Barbados,,"654
+",281996,"431
+"
+21, Nauru, Nauru,,"610
+",12780,"21
+"
+22, Saint Martin (France), Saint Martin,France,"610
+",32077,"53
+"
+23, Aruba (NL), Aruba,NL,"590
+",106277,"180
+"
+24, San Marino, San Marino,,"550
+",33642,"61
+"
+25, Rwanda, Rwanda,,"535
+",14094683,"26338
+"
+26, South Korea, South Korea,,"516
+",51784059,"100413
+"
+27, Lebanon, Lebanon,,"512
+",5353930,"10452
+"
+28, Saint Barthélemy (France), Saint Barthélemy,France,"500
+",10994,"22
+"
+29, Burundi, Burundi,,"476
+",13238559,"27834
+"
+30, Tuvalu, Tuvalu,,"440
+",11396,"26
+"
+31, India, India,,"435
+",1428627663,"3287263
+"
+32, Curaçao (NL), Curaçao,NL,"433
+",192077,"444
+"
+33, Netherlands, Netherlands,,"424
+",18000000,"35524
+"
+34, Haiti, Haiti,,"423
+",11724764,"27750
+"
+35, Israel, Israel,,"416
+",9174520,"22072
+"
+36, Réunion (France), Réunion,France,"391
+",981796,"2510
+"
+37, Philippines, Philippines,,"391
+",117337368,"300000
+"
+38, Belgium, Belgium,,"383
+",11686140,"30528
+"
+39, Comoros, Comoros,,"381
+",852075,"2235
+"
+40, Grenada, Grenada,,"366
+",126184,"345
+"
+41, Puerto Rico (US), Puerto Rico,US,"361
+",3205691,"8868
+"
+42, Martinique (France), Martinique,France,"337
+",366981,"1090
+"
+43, Sri Lanka, Sri Lanka,,"334
+",21893579,"65610
+"
+44, Japan, Japan,,"326
+",123294513,"377930
+"
+45, Guam (US), Guam,US,"320
+",172952,"541
+"
+46, El Salvador, El Salvador,,"303
+",6364943,"21041
+"
+47, Pakistan, Pakistan,,"302
+",240485658,"796095
+"
+48, Trinidad and Tobago, Trinidad and Tobago,,"299
+",1534937,"5127
+"
+49, Vietnam, Vietnam,,"298
+",98858950,"331340
+"
+50, Saint Lucia, Saint Lucia,,"293
+",180251,"616
+"
+51, U.S. Virgin Islands (US), U.S. Virgin Islands,US,"285
+",98750,"347
+"
+52, United Kingdom, United Kingdom,,"279
+",67596281,"242495
+"
+53, Saint Vincent and the Grenadines, Saint Vincent and the Grenadines,,"267
+",103699,"389
+"
+54, Cayman Islands (UK), Cayman Islands,UK,"263
+",69310,"264
+"
+55, Jamaica, Jamaica,,"257
+",2825544,"10991
+"
+56, Luxembourg, Luxembourg,,"253
+",654768,"2586
+"
+57, Liechtenstein, Liechtenstein,,"247
+",39585,"160
+"
+58, Gambia, Gambia,,"246
+",2773168,"11295
+"
+59, Nigeria, Nigeria,,"249
+",230842743,"923768
+"
+60, Kuwait, Kuwait,,"242
+",4310108,"17818
+"
+61, Guadeloupe (France), Guadeloupe,France,"242
+",395839,"1639
+"
+62, São Tomé and Príncipe, São Tomé and Príncipe,,"241
+",231856,"964
+"
+63, Seychelles, Seychelles,,"236
+",107660,"457
+"
+64, Qatar, Qatar,,"233
+",2716391,"11637
+"
+65, Germany, Germany,,"233
+",83294633,"357581
+"
+66, Dominican Republic, Dominican Republic,,"233
+",11332973,"48671
+"
+67, Marshall Islands, Marshall Islands,,"232
+",41996,"181
+"
+68, Malawi, Malawi,,"221
+",20931751,"94552
+"
+69, American Samoa (US), American Samoa,US,"221
+",43915,"199
+"
+70, North Korea, North Korea,,"217
+",26160822,"120538
+"
+71, Antigua and Barbuda, Antigua and Barbuda,,"213
+",94298,"442
+"
+72, Switzerland, Switzerland,,"213
+",8796669,"41291
+"
+73, Nepal, Nepal,,"210
+",30896590,"147181
+"
+74, British Virgin Islands (UK), British Virgin Islands,UK,"209
+",31538,"151
+"
+75, Uganda, Uganda,,"201
+",48582334,"241550
+"
+76, Italy, Italy,,"195
+",58870763,"302068
+"
+77, Kiribati, Kiribati,,"184
+",133515,"726
+"
+78, Saint Kitts and Nevis, Saint Kitts and Nevis,,"183
+",47755,"261
+"
+79, Anguilla (UK), Anguilla,UK,"175
+",15900,"91
+"
+80, Andorra, Andorra,,"171
+",80088,"468
+"
+81, Guatemala, Guatemala,,"166
+",18092026,"108889
+"
+82, Micronesia, Micronesia,,"164
+",115224,"702
+"
+83, Togo, Togo,,"159
+",9053799,"56785
+"
+84, Tokelau (New Zealand), Tokelau,New Zealand,"158
+",1893,"12
+"
+85, Kosovo, Kosovo,,"153
+",1663595,"10905
+"
+86, China, China,,"149
+",1425671352,"9600000
+"
+87, Cape Verde, Cape Verde,,"148
+",598682,"4033
+"
+88, Isle of Man, Isle of Man,,"148
+",84710,"572
+"
+89, Indonesia, Indonesia,,"145
+",277534123,"1910931
+"
+90, Tonga, Tonga,,"144
+",107773,"747
+"
+91, Ghana, Ghana,,"143
+",34121985,"238537
+"
+92, Thailand, Thailand,,"140
+",71801279,"513140
+"
+93, Denmark, Denmark,,"138
+",5910913,"42947
+"
+94, Cyprus, Cyprus,,"136
+",1260138,"9251
+"
+95, United Arab Emirates, United Arab Emirates,,"134
+",9516871,"71024
+"
+96, Transnistria, Transnistria,,"134
+",468980,"3510
+"
+97, Czech Republic, Czech Republic,,"133
+",10495295,"78871
+"
+98, Jordan, Jordan,,"127
+",11337053,"89318
+"
+99, Syria, Syria,,"125
+",23227014,"185180
+"
+100, Sierra Leone, Sierra Leone,,"122
+",8791092,"72300
+"
+101, Poland, Poland,,"120
+",37691000,"313931
+"
+102, Azerbaijan, Azerbaijan,,"120
+",10412652,"86600
+"
+103, Benin, Benin,,"119
+",13712828,"114763
+"
+104, Slovakia, Slovakia,,"118
+",5795199,"49035
+"
+105, France (metropolitan), France,metropolitan,"117
+",64756584,"551500
+"
+106, Ethiopia, Ethiopia,,"115
+",126527060,"1104300
+"
+107, Northern Cyprus, Northern Cyprus,,"114
+",382836,"3355
+"
+108, Egypt, Egypt,,"112
+",112716599,"1002000
+"
+109, Portugal, Portugal,,"111
+",10247605,"92225
+"
+110, Turkey, Turkey,,"110
+",85816199,"783562
+"
+111, Hungary, Hungary,,"109
+",10156239,"93025
+"
+112, Northern Mariana Islands (US), Northern Mariana Islands,US,"109
+",49796,"457
+"
+113, Austria, Austria,,"107
+",8958961,"83878
+"
+114, Iraq, Iraq,,"105
+",45504560,"435052
+"
+115, Slovenia, Slovenia,,"105
+",2119675,"20273
+"
+116, Malaysia, Malaysia,,"104
+",34308525,"330621
+"
+117, Costa Rica, Costa Rica,,"102
+",5212173,"51100
+"
+118, Cuba, Cuba,,"102
+",11194449,"109884
+"
+119, Moldova, Moldova,,"102
+",3435931,"33847
+"
+120, France (metropolitan & overseas), France,metropolitan & overseas,"101
+",68000000,"672000
+"
+121, Albania, Albania,,"99
+",2832439,"28748
+"
+122, Dominica, Dominica,,"97
+",73040,"750
+"
+123, Spain, Spain,,"97
+",48797875,"505994
+"
+124, Honduras, Honduras,,"94
+",10593798,"112492
+"
+125, Cambodia, Cambodia,,"94
+",16944826,"181039
+"
+126, Armenia, Armenia,,"93
+",2777971,"29743
+"
+127, Kenya, Kenya,,"93
+",55100587,"591958
+"
+128, East Timor, East Timor,,"91
+",1360596,"14919
+"
+129, Senegal, Senegal,,"90
+",17763163,"196712
+"
+130, Ivory Coast, Ivory Coast,,"90
+",28873034,"322462
+"
+131, Burkina Faso, Burkina Faso,,"86
+",23251485,"270764
+"
+132, French Polynesia (France), French Polynesia,France,"84
+",308872,"3687
+"
+133, Romania, Romania,,"83
+",19892812,"238398
+"
+134, Caribbean Netherlands (Netherlands), Caribbean Netherlands,Netherlands,"83
+",27148,"328
+"
+135, North Macedonia, North Macedonia,,"81
+",2085679,"25713
+"
+136, Wallis and Futuna (France), Wallis and Futuna,France,"81
+",11502,"142
+"
+137, Serbia, Serbia,,"81
+",7149077,"88444
+"
+138, Myanmar, Myanmar,,"81
+",54577997,"676577
+"
+139, Samoa, Samoa,,"79
+",225681,"2842
+"
+140, Brunei, Brunei,,"78
+",452524,"5765
+"
+141, Greece, Greece,,"78
+",10341277,"131957
+"
+142, Uzbekistan, Uzbekistan,,"78
+",35163944,"448969
+"
+143, Lesotho, Lesotho,,"77
+",2330318,"30355
+"
+144, Tunisia, Tunisia,,"76
+",12458223,"163610
+"
+145, Ireland, Ireland,,"72
+",5056935,"69825
+"
+146, Cook Islands, Cook Islands,,"72
+",17044,"236
+"
+147, Tajikistan, Tajikistan,,"72
+",10143543,"141400
+"
+148, Tanzania, Tanzania,,"71
+",67438106,"947303
+"
+149, Croatia, Croatia,,"71
+",4008617,"56594
+"
+150, Ecuador, Ecuador,,"71
+",18190484,"257215
+"
+151, Eswatini, Eswatini,,"70
+",1210822,"17363
+"
+152, Mexico, Mexico,,"65
+",128455567,"1964375
+"
+153, Yemen, Yemen,,"65
+",34449825,"527968
+"
+154, Afghanistan, Afghanistan,,"65
+",42239854,"652864
+"
+155, Bosnia and Herzegovina, Bosnia and Herzegovina,,"63
+",3210848,"51209
+"
+156, Akrotiri and Dhekelia (UK), Akrotiri and Dhekelia,UK,"62
+",15700,"254
+"
+157, Equatorial Guinea, Equatorial Guinea,,"61
+",1714672,"28051
+"
+158, Ukraine, Ukraine,,"61
+",36744634,"603500
+"
+159, Bulgaria, Bulgaria,,"61
+",6687717,"110372
+"
+160, Cameroon, Cameroon,,"60
+",28647293,"475650
+"
+161,World (excluding Antarctica),World,excluding Antarctica,"60
+",8045311448,"134740000
+"
+162, Guinea-Bissau, Guinea-Bissau,,"60
+",2150842,"36125
+"
+163, Panama, Panama,,"59
+",4468087,"75320
+"
+164, Guinea, Guinea,,"58
+",14190612,"245836
+"
+165, Norfolk Island (Australia), Norfolk Island,Australia,"57
+",2220,"39
+"
+166, Iran, Iran,,"55
+",89172767,"1630848
+"
+167, Nicaragua, Nicaragua,,"54
+",7046311,"130373
+"
+168,World (all land),World,all land,"54
+",8045311448,"148940000
+"
+169, Georgia, Georgia,,"53
+",3728282,"69700
+"
+170, Morocco, Morocco,,"53
+",37984655,"710850
+"
+171, Madagascar, Madagascar,,"52
+",30325732,"587041
+"
+172, Fiji, Fiji,,"51
+",936376,"18272
+"
+173, South Africa, South Africa,,"49
+",60414495,"1221037
+"
+174, Djibouti, Djibouti,,"49
+",1136455,"23200
+"
+175, Liberia, Liberia,,"49
+",5418377,"111369
+"
+176, Turks and Caicos Islands (UK), Turks and Caicos Islands,UK,"49
+",46062,"948
+"
+177, Easter Island, Easter Island,,"47
+",7750,"163.6
+"
+178, Belarus, Belarus,,"46
+",9498238,"207600
+"
+179, Colombia, Colombia,,"46
+",52695952,"1141748
+"
+180, Montenegro, Montenegro,,"45
+",626485,"13888
+"
+181, DR Congo, DR Congo,,"44
+",102262809,"2345410
+"
+182, Saint Helena Ascension and Tristan da Cunha (UK), Saint Helena Ascension and Tristan da Cunha,UK,"43
+",5314,"123
+"
+183, Cocos (Keeling) Islands (Australia), Cocos,Keeling) Islands (Australia,"43
+",602,"14
+"
+184, Zimbabwe, Zimbabwe,,"43
+",16665409,"390757
+"
+185, Montserrat (UK), Montserrat,UK,"43
+",4387,"103
+"
+186, Mozambique, Mozambique,,"42
+",33897354,"799380
+"
+187, Lithuania, Lithuania,,"42
+",2718352,"65286
+"
+188, Palau, Palau,,"39
+",18058,"459
+"
+189, Faroe Islands (Denmark), Faroe Islands,Denmark,"38
+",53270,"1393
+"
+190, United States, United States,,"35
+",339996564,"9833517
+"
+191, Kyrgyzstan, Kyrgyzstan,,"34
+",6735348,"199949
+"
+192, Laos, Laos,,"32
+",7633779,"236800
+"
+193, Venezuela, Venezuela,,"31
+",28838499,"929690
+"
+194, Eritrea, Eritrea,,"31
+",3748902,"121144
+"
+195, Bahamas, Bahamas,,"30
+",412624,"13940
+"
+196, Angola, Angola,,"29
+",36684203,"1246700
+"
+197, Somaliland, Somaliland,,"29
+",4914100,"167283
+"
+198, Estonia, Estonia,,"29
+",1322766,"45399
+"
+199, Somalia, Somalia,,"28
+",18143379,"637657
+"
+200, Latvia, Latvia,,"28
+",1862700,"64594
+"
+201, Abkhazia, Abkhazia,,"28
+",245424,"8662
+"
+202, Vanuatu, Vanuatu,,"27
+",334506,"12189
+"
+203, Zambia, Zambia,,"27
+",20569738,"752612
+"
+204, Sudan, Sudan,,"27
+",48109006,"1765048
+"
+205, Peru, Peru,,"27
+",34352719,"1285216
+"
+206, Chile, Chile,,"26
+",19629590,"756102
+"
+207, Solomon Islands, Solomon Islands,,"26
+",740425,"28896
+"
+208, Brazil, Brazil,,"25
+",216422446,"8510346
+"
+209, Sweden, Sweden,,"24
+",10612086,"438574
+"
+210, Saint Pierre and Miquelon (France), Saint Pierre and Miquelon,France,"24
+",5840,"242
+"
+211, Papua New Guinea, Papua New Guinea,,"22
+",10329931,"462840
+"
+212, Niger, Niger,,"21
+",27202843,"1267000
+"
+213, Bhutan, Bhutan,,"21
+",787425,"38394
+"
+214, Uruguay, Uruguay,,"20
+",3423109,"173626
+"
+215, New Zealand, New Zealand,,"20
+",5228100,"268107
+"
+216, Algeria, Algeria,,"19
+",45606481,"2381741
+"
+217, Åland (Finland), Åland,Finland,"19
+",30237,"1583
+"
+218, Mali, Mali,,"19
+",23293699,"1240192
+"
+219, Belize, Belize,,"18
+",410825,"22965
+"
+220, Congo, Congo,,"18
+",6106869,"342000
+"
+221, South Sudan, South Sudan,,"17
+",11088796,"658841
+"
+222, Saudi Arabia, Saudi Arabia,,"17
+",36947025,"2206714
+"
+223, Finland, Finland,,"16
+",5545475,"336884
+"
+224, Argentina, Argentina,,"16
+",45773884,"2796427
+"
+225, South Ossetia, South Ossetia,,"16
+",57095,"3632
+"
+226, New Caledonia (France), New Caledonia,France,"15
+",292991,"19100
+"
+227, Paraguay, Paraguay,,"15
+",6109644,"406752
+"
+228, Oman, Oman,,"15
+",4644384,"309980
+"
+229, Chad, Chad,,"14
+",18278568,"1284000
+"
+230, Norway, Norway,,"14
+",5474360,"385207
+"
+231, Turkmenistan, Turkmenistan,,"13
+",6516100,"488100
+"
+232, Christmas Island (Australia), Christmas Island,Australia,"12
+",1692,"136
+"
+233, Bolivia, Bolivia,,"11
+",12388571,"1098581
+"
+234, Central African Republic, Central African Republic,,"9
+",5742316,"622984
+"
+235, Gabon, Gabon,,"9
+",2436567,"267668
+"
+236, Russia, Russia,,"8
+",144444359,"17098246
+"
+237, Niue, Niue,,"7
+",1935,"260
+"
+238, Kazakhstan, Kazakhstan,,"7
+",19606634,"2724902
+"
+239, Mauritania, Mauritania,,"5
+",4862989,"1030700
+"
+240, Botswana, Botswana,,"5
+",2675353,"582000
+"
+241, Libya, Libya,,"4
+",6888388,"1676198
+"
+242, Canada, Canada,,"4
+",41012563,"9984670
+"
+243, Suriname, Suriname,,"4
+",623237,"163820
+"
+244, Guyana, Guyana,,"4
+",813834,"214969
+"
+245, French Guiana (France), French Guiana,France,"4
+",312155,"83534
+"
+246, Iceland, Iceland,,"4
+",375319,"103000
+"
+247, Australia, Australia,,"3
+",26439112,"7692024
+"
+248, Namibia, Namibia,,"3
+",2604172,"825229
+"
+249, Western Sahara (disputed), Western Sahara,disputed,"2
+",587259,"266000
+"
+250, Mongolia, Mongolia,,"2
+",3447157,"1564116
+"
+251, Pitcairn Islands (UK), Pitcairn Islands,UK,"0.9
+",40,"47
+"
+252, Falkland Islands (UK), Falkland Islands,UK,"0.3
+",3791,"12173
+"
+253, Greenland (Denmark), Greenland,Denmark,"0.03
+",56643,"2166086
+"
