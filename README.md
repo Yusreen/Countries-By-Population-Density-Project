@@ -53,7 +53,17 @@ The dashboard is as follows:
 4. Pushes the data to Azure Data Lake.
 ## Lessons Learned
 
-It's good to reflect on what you learned throughout the process of building this project. Here you might discuss what you would have done differently if you had more time/money/data. Did you end up choosing the right tools or would you try something else next time?
+1. I learnt how to read the html using Developer Tools and fetch the correct table using BeautifulSoup.
+   ![image](https://github.com/user-attachments/assets/611c35de-a0eb-4047-8a13-e9ab3e19ad78)
+
+2. I learnt how to use geocoder to get the correct location of the country/territory.
+   ![image](https://github.com/user-attachments/assets/c5bb2c09-bd30-4537-b457-9f560c7ff93d)
+
+3. I learnt how to correctly use dags in Airflow as well as familiarize myself with the UI.
+4. I learnt how to use Tableau for effective storytelling.
+
+
+
 
 ## Contact
 
