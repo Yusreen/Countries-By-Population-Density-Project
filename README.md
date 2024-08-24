@@ -1,13 +1,16 @@
 # Countries By Population Density Project
 
 
-This is a template you can use for your next data engineering portfolio project. To copy it, log into GitHub and click on the **Use this template** button above.
+This project uses Airflow to scrape and clean data from Wikipedia. The clean data is then pushed to Azure Data lake for processing. Tableau is the used to visualize the data.
 
-![GitHub use this template button](use-this-template-button.png)
 
 ## Overview
 
 Here you want to write a short overview of the goals of your project and how it works at a high level. If possible, include one or two images of the end product and architecture diagram (see examples below). diagrams.net is a great tool for creating architecture diagrams.
+
+## System Architecture
+https://github.com/airscholar/FootballDataEngineering/blob/main/assets/system_architecture.png?raw=true![image](https://github.com/user-attachments/assets/5f59b208-9945-463f-8ff8-d0fd5ee4abc3)
+
 
 ### Data Visualization
 
