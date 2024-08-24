@@ -6,7 +6,8 @@ This project uses Airflow to scrape and clean data from Wikipedia. The clean dat
 
 ## Overview
 
-Here you want to write a short overview of the goals of your project and how it works at a high level. If possible, include one or two images of the end product and architecture diagram (see examples below). diagrams.net is a great tool for creating architecture diagrams.
+The goal of this project was to understand the role of docker and Airflow in Data Engineering.
+Libraries like BeautifulSoup as well as Geocoder are used to extract data as well as use the extracted data to locate each country.
 
 ## System Architecture
 ![image](https://github.com/user-attachments/assets/cf115ff1-8932-4fa6-936a-4125d4edac48)
@@ -15,31 +16,41 @@ Here you want to write a short overview of the goals of your project and how it 
 
 ### Data Visualization
 
-![Example dashboard image](example-dashboard.png)
+The dashboard is as follows:
+![image](https://github.com/user-attachments/assets/cad0cbbf-3900-4c63-b8af-6440e0fffbd7)
 
-### Data Architecture
 
-![Example architecture image](example-architecture.png)
+## Requirements
+- Python 3.9 (minimum)
+- Docker
+- PostgreSQL
+- Apache Airflow 2.6 (minimum)
 
-If you decide to include this, you should also talk a bit about why you chose the architecture and tools you did for this project.
+## Getting Started
 
-## Prerequisites
+1. Clone the repository.
+   ```bash
+   git clone https://github.com/Yusreen/CountriesByPopulationDensityProject.git
+   ```
 
-Directions or anything needed before running the project.
+2. Install Python dependencies.
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
+## Running the Code With Docker
 
-- Prerequisite 1
-- Prerequisite 2
-- Prerequisite 3
+1. Start your services on Docker with
+   ```bash
+   docker compose up -d
+   ``` 
+2. Trigger the DAG on the Airflow UI.
 
-## How to Run This Project
-
-Replace the example step-by-step instructions with your own.
-
-1. Install x packages
-2. Run command: `python x`
-3. Make sure it's running properly by checking z
-4. To clean up at the end, run script: `python cleanup.py`
-
+## How It Works
+1. Fetches data from Wikipedia.
+2. Cleans the data.
+3. Transforms the data.
+4. Pushes the data to Azure Data Lake.
 ## Lessons Learned
 
 It's good to reflect on what you learned throughout the process of building this project. Here you might discuss what you would have done differently if you had more time/money/data. Did you end up choosing the right tools or would you try something else next time?
