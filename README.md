@@ -65,6 +65,6 @@ The dashboard is as follows:
 
 
 
-## Contact
+## References
 
-Please feel free to contact me if you have any questions at: LinkedIn, Twitter
+This project was inspired by: https://github.com/airscholar/FootballDataEngineering
