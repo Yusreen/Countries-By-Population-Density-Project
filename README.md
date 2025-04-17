@@ -1,7 +1,7 @@
 # Countries By Population Density Project
 
 
-This project uses Airflow to scrape and clean data from Wikipedia. The clean data is then pushed to Azure Data lake for processing. Tableau is the used to visualize the data.
+This project uses Airflow to scrape and clean data from Wikipedia. The clean data is then pushed to Azure Data lake for processing. Tableau is then used to visualize the data.
 
 View the interactive Tableau dashboard here: <https://public.tableau.com/app/profile/yusreen.shah/viz/PopulationDensityProject/Dashboard1>
 
