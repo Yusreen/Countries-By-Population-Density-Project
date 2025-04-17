@@ -1,7 +1,7 @@
 # Countries By Population Density Project
 
 
-This project uses Airflow to scrape and clean data from Wikipedia. The clean data is then pushed to Azure Data lake for processing. Tableau is then used to visualize the data.
+This project uses Airflow to scrape and clean data from Wikipedia. The clean data is pushed to Azure Data lake for processing. Tableau is then used to visualize the data.
 
 View the interactive Tableau dashboard here: <https://public.tableau.com/app/profile/yusreen.shah/viz/PopulationDensityProject/Dashboard1>
 
@@ -9,7 +9,7 @@ View the interactive Tableau dashboard here: <https://public.tableau.com/app/pro
 ## Overview
 
 The goal of this project was to understand the role of docker and Airflow in Data Engineering.
-Libraries like BeautifulSoup as well as Geocoder are used to extract data as well as use the extracted data to locate each country.
+Libraries like BeautifulSoup and Geocoder are used to extract data as well as use the extracted data to locate each country.
 
 ## System Architecture
 ![image](https://github.com/user-attachments/assets/cf115ff1-8932-4fa6-936a-4125d4edac48)
